@@ -1,0 +1,8 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "rules": {
+    "consistent-return": 0,
+    "default-case": 0
+  }
+}

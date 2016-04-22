@@ -1,0 +1,5 @@
+node_modules
+build
+.gulp-cache
+npm-debug.log
+data

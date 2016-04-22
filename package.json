@@ -40,6 +40,8 @@
     "gulp-nodemon": "^2.0.6",
     "nodemon": "^1.9.1"
   },
+  "keywords": ["ES6", "JavaScript2015", "JavaScript", "Nodejs", "Express"],
+  "authors": ["Mikhail Riabokon"],
   "engines": {
     "node": "^4.4.0",
     "npm": "^3.8.7"

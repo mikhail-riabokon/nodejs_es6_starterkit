@@ -1,7 +1,7 @@
 {
   "name": "nodejs_es6_starterkit",
   "private": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Nodejs (ES6) starterkit ",
   "main": "build/index.js",
   "scripts": {
@@ -40,8 +40,16 @@
     "gulp-nodemon": "^2.0.6",
     "nodemon": "^1.9.1"
   },
-  "keywords": ["ES6", "JavaScript2015", "JavaScript", "Nodejs", "Express"],
-  "authors": ["Mikhail Riabokon"],
+  "keywords": [
+    "ES6",
+    "JavaScript2015",
+    "JavaScript",
+    "Nodejs",
+    "Express"
+  ],
+  "authors": [
+    "Mikhail Riabokon"
+  ],
   "engines": {
     "node": "^4.4.0",
     "npm": "^3.8.7"
